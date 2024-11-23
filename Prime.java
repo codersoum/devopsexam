@@ -1,4 +1,4 @@
-package debug;
+
 import java.lang.*;
 import java .util.*;
 public class Prime {
@@ -23,4 +23,3 @@ public class Prime {
 	}
 
 }
-"Simple Test" 
