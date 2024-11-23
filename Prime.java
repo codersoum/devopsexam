@@ -1,6 +1,6 @@
 
 import java.lang.*;
-import java .util.*;
+import java .util.Scanner;
 public class Prime {
 	public static void main(String[] args)
 	{
